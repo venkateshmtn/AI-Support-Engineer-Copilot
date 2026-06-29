@@ -164,6 +164,13 @@ Escalation:        YES — Customer has multiple open tickets.
 ```
 
 ---
+## ScreenShots
+<img width="1763" height="844" alt="screenshot_3" src="https://github.com/user-attachments/assets/82c00222-0723-49f5-ac1b-cc8ad64e5631" />
+<img width="1763" height="844" alt="screenshot_2" src="https://github.com/user-attachments/assets/6808aba2-c7fd-4598-893e-e1305b527d92" />
+<img width="1763" height="844" alt="screenshot_1" src="https://github.com/user-attachments/assets/22af7925-2d2e-4b68-ba52-09f2dd716791" />
+
+
+
 
 ## 🧠 Design Decisions
 
